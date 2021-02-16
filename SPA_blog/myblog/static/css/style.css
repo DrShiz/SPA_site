@@ -14,7 +14,11 @@
 }
 
 .carousel-item {
-    height: 40rem;
+    height: 20rem;
+}
+
+.carousel-inner {
+    height: 20rem;
 }
 
 body {
